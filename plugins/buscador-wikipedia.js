@@ -13,7 +13,7 @@ handler.limit = false
 })};
 handler.help = ['wikipedia'].map((v) => v + ' <apa>');
 handler.tags = ['internet'];
-handler.command = /^(wiki|wikipedia)$/i;
+handler.command = /^(wiki|wikipedia|ويكي)$/i;
 handler.exp = 40
 handler.level = 3
 handler.limit = 1

@@ -63,7 +63,7 @@ ${m.isGroup ? `┃` : `┃\n${lenguajeGB.smsConfi9()}`}
 ╰━━━━━✦ *${vs}* ✦━━━━⬣
 ${wm}`,//`
 title: null,
-buttonText: `⚙️ ${lenguajeGB.smsConfi1()} ⚙️`,
+buttonText: `⚙️ اختر يا مطوري ومشرفي ⚙️`,
 sections }
 let isEnable = /true|enable|(turn)?on|1/i.test(command)
 let type = (args[0] || '').toLowerCase()

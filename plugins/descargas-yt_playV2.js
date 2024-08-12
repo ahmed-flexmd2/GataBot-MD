@@ -7,7 +7,7 @@ import fg from 'api-dylux';
 const handler = async (m, {command, usedPrefix, conn, text}) => {
 if (!text) throw `${mg}${mid.smsMalused4}\n*${usedPrefix + command} Billie Eilish - Bellyache*`
 try {
-if (command == 'play.1') {
+if (command == 'اغنيه') {
 conn.reply(m.chat, lenguajeGB['smsAvisoEG']() + mid.smsAud, m, { contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: wm, body: '😻 𝗦𝘂𝗽𝗲𝗿 𝗚𝗮𝘁𝗮𝗕𝗼𝘁-𝗠𝗗 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}})
 try {
 const mediaa = await ytPlay(text);
@@ -60,7 +60,7 @@ handler.limit = 0 //No gastada limite si fallas
 }}
 handler.help = ['play.1' , 'play.2'].map(v => v + ' <texto>')
 handler.tags = ['downloader']
-handler.command = ['play.1', 'play.2']
+handler.command = ['اغنيه', 'play.2']
 handler.limit = 1
 export default handler
 
