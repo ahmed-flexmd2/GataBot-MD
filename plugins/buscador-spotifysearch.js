@@ -25,7 +25,7 @@ console.log(`❗❗ ${lenguajeGB['smsMensError2']()} ${usedPrefix + command} ❗
 console.log(e)
 handler.limit = false
 }}
-handler.command = /^(spotifysearch)$/i
+handler.command = /^(spotifysearch|سبوتفي)$/i
 handler.limit = 1
 handler.level = 3
 handler.register = true
