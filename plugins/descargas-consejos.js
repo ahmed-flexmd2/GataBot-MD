@@ -44,7 +44,6 @@ await m.reply(lenguajeGB['smsMalError3']() + '\n*' + lenguajeGB.smsMensError1() 
 console.log(`❗❗ ${lenguajeGB['smsMensError2']()} ${usedPrefix + command} ❗❗`)
 console.log(e)}}
 handler.command = ['consejo', 'advice', 'frase2', 'phrase2']
-handler.register = true
 export default handler
 
 global.motivation = [

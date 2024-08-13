@@ -804,185 +804,185 @@
 721 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/ytdl-core/package.json
 722 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/zod/package.json
 723 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@adiwajshing/keyed-db/package.json
-724 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-crypto/sha256-browser/package.json
-725 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-crypto/sha256-js/package.json
-726 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-crypto/supports-web-crypto/package.json
-727 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-crypto/util/package.json
-728 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/client-cognito-identity/package.json
-729 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/client-sso/package.json
-730 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/client-sso-oidc/package.json
-731 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/client-sts/package.json
-732 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/core/package.json
-733 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/credential-provider-cognito-identity/package.json
-734 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/credential-provider-env/package.json
-735 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/credential-provider-http/package.json
-736 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/credential-provider-ini/package.json
-737 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/credential-provider-node/package.json
-738 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/credential-provider-process/package.json
-739 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/credential-provider-sso/package.json
-740 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/credential-provider-web-identity/package.json
-741 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/credential-providers/package.json
-742 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/middleware-host-header/package.json
-743 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/middleware-logger/package.json
-744 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/middleware-recursion-detection/package.json
-745 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/middleware-user-agent/package.json
-746 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/region-config-resolver/package.json
-747 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/token-providers/package.json
-748 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/types/package.json
-749 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/util-endpoints/package.json
-750 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/util-locate-window/package.json
-751 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/util-user-agent-browser/package.json
-752 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/util-user-agent-node/package.json
-753 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@babel/runtime/package.json
-754 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper/package.json
-755 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-bmkg/package.json
-756 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-downloader/package.json
-757 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-games/package.json
-758 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-images/package.json
-759 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-news/package.json
-760 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-others/package.json
-761 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-primbon/package.json
-762 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-religions/package.json
-763 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-sosmed/package.json
-764 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-texts/package.json
-765 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@brandond/findthelyrics/package.json
-766 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@discordjs/builders/package.json
-767 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@discordjs/collection/package.json
-768 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@eshaz/web-worker/package.json
-769 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@eslint/eslintrc/package.json
-770 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@eslint/js/package.json
-771 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@eslint-community/eslint-utils/package.json
-772 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@eslint-community/regexpp/package.json
-773 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@green-code/music-track-data/package.json
-774 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@hapi/boom/package.json
-775 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@hapi/hoek/package.json
-776 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@humanwhocodes/config-array/package.json
-777 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@humanwhocodes/module-importer/package.json
-778 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@humanwhocodes/object-schema/package.json
-779 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@isaacs/cliui/package.json
-780 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@isaacs/fs-minipass/package.json
-781 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@javascript-obfuscator/escodegen/package.json
-782 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@javascript-obfuscator/estraverse/package.json
-783 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/bmp/package.json
-784 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/core/package.json
-785 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/custom/package.json
-786 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/gif/package.json
-787 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/jpeg/package.json
-788 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-blit/package.json
-789 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-blur/package.json
-790 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-circle/package.json
-791 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-color/package.json
-792 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-contain/package.json
-793 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-cover/package.json
-794 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-crop/package.json
-795 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-displace/package.json
-796 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-dither/package.json
-797 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-fisheye/package.json
-798 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-flip/package.json
-799 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-gaussian/package.json
-800 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-invert/package.json
-801 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-mask/package.json
-802 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-normalize/package.json
-803 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-print/package.json
-804 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-resize/package.json
-805 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-rotate/package.json
-806 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-scale/package.json
-807 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-shadow/package.json
-808 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-threshold/package.json
-809 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugins/package.json
-810 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/png/package.json
-811 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/tiff/package.json
-812 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/types/package.json
-813 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/utils/package.json
-814 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@mongodb-js/saslprep/package.json
-815 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@nechlophomeriaa/spotifydl/package.json
-816 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@nodelib/fs.scandir/package.json
-817 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@nodelib/fs.stat/package.json
-818 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@nodelib/fs.walk/package.json
-819 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@pkgjs/parseargs/package.json
-820 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@protobufjs/aspromise/package.json
-821 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@protobufjs/base64/package.json
-822 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@protobufjs/codegen/package.json
-823 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@protobufjs/eventemitter/package.json
-824 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@protobufjs/fetch/package.json
-825 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@protobufjs/float/package.json
-826 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@protobufjs/inquire/package.json
-827 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@protobufjs/path/package.json
-828 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@protobufjs/pool/package.json
-829 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@protobufjs/utf8/package.json
-830 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@sapphire/async-queue/package.json
-831 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@sapphire/shapeshift/package.json
-832 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@sasmeee/igdl/package.json
-833 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@shineiichijo/marika/package.json
-834 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@sindresorhus/is/package.json
-835 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/abort-controller/package.json
-836 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/config-resolver/package.json
-837 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/core/package.json
-838 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/credential-provider-imds/package.json
-839 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/fetch-http-handler/package.json
-840 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/hash-node/package.json
-841 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/invalid-dependency/package.json
-842 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/is-array-buffer/package.json
-843 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/middleware-content-length/package.json
-844 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/middleware-endpoint/package.json
-845 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/middleware-retry/package.json
-846 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/middleware-serde/package.json
-847 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/middleware-stack/package.json
-848 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/node-config-provider/package.json
-849 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/node-http-handler/package.json
-850 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/property-provider/package.json
-851 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/protocol-http/package.json
-852 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/querystring-builder/package.json
-853 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/querystring-parser/package.json
-854 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/service-error-classification/package.json
-855 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/shared-ini-file-loader/package.json
-856 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/signature-v4/package.json
-857 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/smithy-client/package.json
-858 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/types/package.json
-859 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/url-parser/package.json
-860 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/util-base64/package.json
-861 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/util-body-length-browser/package.json
-862 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/util-body-length-node/package.json
-863 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/util-buffer-from/package.json
-864 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/util-config-provider/package.json
-865 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/util-defaults-mode-browser/package.json
-866 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/util-defaults-mode-node/package.json
-867 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/util-endpoints/package.json
-868 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/util-hex-encoding/package.json
-869 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/util-middleware/package.json
-870 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/util-retry/package.json
-871 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/util-stream/package.json
-872 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/util-uri-escape/package.json
-873 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/util-utf8/package.json
-874 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@socket.io/component-emitter/package.json
-875 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@swc/helpers/package.json
-876 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@szmarczak/http-timer/package.json
-877 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@thi.ng/bitstream/package.json
-878 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@thi.ng/errors/package.json
-879 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@tokenizer/token/package.json
-880 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@tootallnate/once/package.json
-881 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@types/cacheable-request/package.json
-882 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@types/cookie/package.json
-883 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@types/cors/package.json
-884 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@types/http-cache-semantics/package.json
-885 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@types/keyv/package.json
-886 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@types/long/package.json
-887 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@types/minimatch/package.json
-888 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@types/node/package.json
-889 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@types/node-fetch/package.json
-890 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@types/responselike/package.json
-891 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@types/validator/package.json
-892 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@types/webidl-conversions/package.json
-893 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@types/whatwg-url/package.json
-894 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@types/ws/package.json
-895 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@ungap/structured-clone/package.json
-896 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@vitalets/google-translate-api/package.json
-897 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@wasm-audio-decoders/common/package.json
-898 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@wasm-audio-decoders/flac/package.json
-899 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@wasm-audio-decoders/ogg-vorbis/package.json
-900 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@whiskeysockets/baileys/package.json
-901 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@xct007/frieren-scraper/package.json
-902 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@xmldom/xmldom/package.json
+724 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper/package.json
+725 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-bmkg/package.json
+726 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-downloader/package.json
+727 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-games/package.json
+728 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-images/package.json
+729 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-news/package.json
+730 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-others/package.json
+731 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-primbon/package.json
+732 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-religions/package.json
+733 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-sosmed/package.json
+734 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-texts/package.json
+735 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@babel/runtime/package.json
+736 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@discordjs/builders/package.json
+737 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@discordjs/collection/package.json
+738 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@brandond/findthelyrics/package.json
+739 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@eshaz/web-worker/package.json
+740 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/client-cognito-identity/package.json
+741 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/client-sso/package.json
+742 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/client-sso-oidc/package.json
+743 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/client-sts/package.json
+744 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/core/package.json
+745 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/credential-provider-cognito-identity/package.json
+746 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/credential-provider-env/package.json
+747 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/credential-provider-http/package.json
+748 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/credential-provider-ini/package.json
+749 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/credential-provider-node/package.json
+750 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/credential-provider-process/package.json
+751 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/credential-provider-sso/package.json
+752 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/credential-provider-web-identity/package.json
+753 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/credential-providers/package.json
+754 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/middleware-host-header/package.json
+755 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/middleware-logger/package.json
+756 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/middleware-recursion-detection/package.json
+757 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/middleware-user-agent/package.json
+758 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/region-config-resolver/package.json
+759 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/token-providers/package.json
+760 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/types/package.json
+761 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/util-endpoints/package.json
+762 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/util-locate-window/package.json
+763 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/util-user-agent-browser/package.json
+764 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/util-user-agent-node/package.json
+765 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@eslint/eslintrc/package.json
+766 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@eslint/js/package.json
+767 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@eslint-community/eslint-utils/package.json
+768 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@eslint-community/regexpp/package.json
+769 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@green-code/music-track-data/package.json
+770 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@humanwhocodes/config-array/package.json
+771 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@humanwhocodes/module-importer/package.json
+772 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@humanwhocodes/object-schema/package.json
+773 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@hapi/boom/package.json
+774 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@hapi/hoek/package.json
+775 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@isaacs/cliui/package.json
+776 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@isaacs/fs-minipass/package.json
+777 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@javascript-obfuscator/escodegen/package.json
+778 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@javascript-obfuscator/estraverse/package.json
+779 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@mongodb-js/saslprep/package.json
+780 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/bmp/package.json
+781 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/core/package.json
+782 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/custom/package.json
+783 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/gif/package.json
+784 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/jpeg/package.json
+785 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-blit/package.json
+786 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-blur/package.json
+787 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-circle/package.json
+788 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-color/package.json
+789 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-contain/package.json
+790 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-cover/package.json
+791 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-crop/package.json
+792 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-displace/package.json
+793 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-dither/package.json
+794 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-fisheye/package.json
+795 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-flip/package.json
+796 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-gaussian/package.json
+797 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-invert/package.json
+798 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-mask/package.json
+799 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-normalize/package.json
+800 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-print/package.json
+801 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-resize/package.json
+802 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-rotate/package.json
+803 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-scale/package.json
+804 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-shadow/package.json
+805 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-threshold/package.json
+806 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/plugins/package.json
+807 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/png/package.json
+808 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/tiff/package.json
+809 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/types/package.json
+810 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@jimp/utils/package.json
+811 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@nodelib/fs.scandir/package.json
+812 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@nodelib/fs.stat/package.json
+813 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@nodelib/fs.walk/package.json
+814 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@nechlophomeriaa/spotifydl/package.json
+815 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@protobufjs/aspromise/package.json
+816 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@protobufjs/base64/package.json
+817 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@protobufjs/codegen/package.json
+818 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@protobufjs/eventemitter/package.json
+819 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@protobufjs/fetch/package.json
+820 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@protobufjs/float/package.json
+821 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@protobufjs/inquire/package.json
+822 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@protobufjs/path/package.json
+823 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@protobufjs/pool/package.json
+824 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@protobufjs/utf8/package.json
+825 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@sapphire/async-queue/package.json
+826 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@sapphire/shapeshift/package.json
+827 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@sasmeee/igdl/package.json
+828 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@shineiichijo/marika/package.json
+829 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@sindresorhus/is/package.json
+830 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@pkgjs/parseargs/package.json
+831 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@socket.io/component-emitter/package.json
+832 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/abort-controller/package.json
+833 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/config-resolver/package.json
+834 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/core/package.json
+835 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/credential-provider-imds/package.json
+836 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/fetch-http-handler/package.json
+837 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/hash-node/package.json
+838 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/invalid-dependency/package.json
+839 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/is-array-buffer/package.json
+840 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/middleware-content-length/package.json
+841 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/middleware-endpoint/package.json
+842 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/middleware-retry/package.json
+843 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/middleware-serde/package.json
+844 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/middleware-stack/package.json
+845 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/node-config-provider/package.json
+846 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/node-http-handler/package.json
+847 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/property-provider/package.json
+848 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/protocol-http/package.json
+849 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/querystring-builder/package.json
+850 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/querystring-parser/package.json
+851 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/service-error-classification/package.json
+852 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/shared-ini-file-loader/package.json
+853 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/signature-v4/package.json
+854 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/smithy-client/package.json
+855 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/types/package.json
+856 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/url-parser/package.json
+857 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/util-base64/package.json
+858 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/util-body-length-browser/package.json
+859 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/util-body-length-node/package.json
+860 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/util-buffer-from/package.json
+861 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/util-config-provider/package.json
+862 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/util-defaults-mode-browser/package.json
+863 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/util-defaults-mode-node/package.json
+864 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/util-endpoints/package.json
+865 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/util-hex-encoding/package.json
+866 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/util-middleware/package.json
+867 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/util-retry/package.json
+868 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/util-stream/package.json
+869 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/util-uri-escape/package.json
+870 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@smithy/util-utf8/package.json
+871 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@swc/helpers/package.json
+872 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@szmarczak/http-timer/package.json
+873 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@thi.ng/bitstream/package.json
+874 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@thi.ng/errors/package.json
+875 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@tokenizer/token/package.json
+876 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-crypto/sha256-browser/package.json
+877 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-crypto/sha256-js/package.json
+878 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-crypto/supports-web-crypto/package.json
+879 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@aws-crypto/util/package.json
+880 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@ungap/structured-clone/package.json
+881 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@vitalets/google-translate-api/package.json
+882 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@whiskeysockets/baileys/package.json
+883 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@wasm-audio-decoders/common/package.json
+884 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@wasm-audio-decoders/flac/package.json
+885 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@wasm-audio-decoders/ogg-vorbis/package.json
+886 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@types/cacheable-request/package.json
+887 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@types/cookie/package.json
+888 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@types/cors/package.json
+889 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@types/http-cache-semantics/package.json
+890 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@types/keyv/package.json
+891 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@types/long/package.json
+892 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@types/minimatch/package.json
+893 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@types/node/package.json
+894 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@types/node-fetch/package.json
+895 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@types/responselike/package.json
+896 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@types/validator/package.json
+897 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@types/webidl-conversions/package.json
+898 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@types/whatwg-url/package.json
+899 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@types/ws/package.json
+900 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@xmldom/xmldom/package.json
+901 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@tootallnate/once/package.json
+902 verbose installManyTop reading scoped package data from /home/runner/GataBot-MD/node_modules/@xct007/frieren-scraper/package.json
 903 info package.json redstar@0.0.2 No README data
 904 info package.json @swc/helpers@0.3.17 No README data
 905 info package.json @wasm-audio-decoders/common@9.0.5 No README data
@@ -1000,64 +1000,64 @@
 917 info package.json node-localstorage@1.3.1 No license field.
 918 info package.json npm@2.15.12 Non-dependency in bundleDependencies: ansi-regex
 919 info package.json npm@2.15.12 Non-dependency in bundleDependencies: imurmurhash
-920 info package.json package-json-from-dist@1.0.0 license should be a valid SPDX license expression
-921 info package.json path-scurry@1.11.1 license should be a valid SPDX license expression
-922 info package.json node-webpmux@3.2.0 license should be a valid SPDX license expression
+920 info package.json node-webpmux@3.2.0 license should be a valid SPDX license expression
+921 info package.json package-json-from-dist@1.0.0 license should be a valid SPDX license expression
+922 info package.json path-scurry@1.11.1 license should be a valid SPDX license expression
 923 info package.json png-js@1.0.0 No license field.
 924 info package.json process@0.11.10 process is also the name of a node core module.
-925 info package.json punycode@2.3.1 punycode is also the name of a node core module.
-926 info package.json qrcode-terminal@0.12.0 No license field.
-927 info package.json querystring@0.2.0 querystring is also the name of a node core module.
-928 info package.json querystring@0.2.0 No license field.
+925 info package.json qrcode-terminal@0.12.0 No license field.
+926 info package.json querystring@0.2.0 querystring is also the name of a node core module.
+927 info package.json querystring@0.2.0 No license field.
+928 info package.json perf_hooks@0.0.1 perf_hooks is also the name of a node core module.
 929 info package.json readline@1.3.0 readline is also the name of a node core module.
 930 info package.json readline@1.3.0 license should be a valid SPDX license expression
-931 info package.json string_decoder@1.1.1 string_decoder is also the name of a node core module.
-932 info package.json ttys@0.0.3 No license field.
-933 info package.json url@0.11.4 url is also the name of a node core module.
-934 info package.json util@0.12.5 util is also the name of a node core module.
-935 info package.json yallist@5.0.0 license should be a valid SPDX license expression
-936 info package.json @bochilteam/scraper@4.2.4 license should be a valid SPDX license expression
+931 info package.json punycode@2.3.1 punycode is also the name of a node core module.
+932 info package.json string_decoder@1.1.1 string_decoder is also the name of a node core module.
+933 info package.json ttys@0.0.3 No license field.
+934 info package.json url@0.11.4 url is also the name of a node core module.
+935 info package.json util@0.12.5 util is also the name of a node core module.
+936 info package.json yallist@5.0.0 license should be a valid SPDX license expression
 937 info package.json @bochilteam/scraper-bmkg@1.0.2 license should be a valid SPDX license expression
-938 info package.json @bochilteam/scraper-games@1.0.2 license should be a valid SPDX license expression
-939 info package.json @bochilteam/scraper-downloader@1.0.2 license should be a valid SPDX license expression
-940 info package.json @bochilteam/scraper-images@1.0.2 license should be a valid SPDX license expression
-941 info package.json @bochilteam/scraper-news@1.0.2 license should be a valid SPDX license expression
-942 info package.json @bochilteam/scraper-others@1.0.2 license should be a valid SPDX license expression
-943 info package.json @bochilteam/scraper-primbon@1.0.2 license should be a valid SPDX license expression
-944 info package.json @bochilteam/scraper-religions@1.0.2 license should be a valid SPDX license expression
-945 info package.json @bochilteam/scraper-sosmed@1.0.5 license should be a valid SPDX license expression
-946 info package.json @bochilteam/scraper-texts@1.0.2 license should be a valid SPDX license expression
-947 info package.json @jimp/bmp@0.16.13 No repository field.
-948 info package.json @jimp/custom@0.16.13 No repository field.
+938 info package.json @bochilteam/scraper@4.2.4 license should be a valid SPDX license expression
+939 info package.json @bochilteam/scraper-games@1.0.2 license should be a valid SPDX license expression
+940 info package.json @bochilteam/scraper-downloader@1.0.2 license should be a valid SPDX license expression
+941 info package.json @bochilteam/scraper-images@1.0.2 license should be a valid SPDX license expression
+942 info package.json @bochilteam/scraper-news@1.0.2 license should be a valid SPDX license expression
+943 info package.json @bochilteam/scraper-others@1.0.2 license should be a valid SPDX license expression
+944 info package.json @bochilteam/scraper-primbon@1.0.2 license should be a valid SPDX license expression
+945 info package.json @bochilteam/scraper-religions@1.0.2 license should be a valid SPDX license expression
+946 info package.json @bochilteam/scraper-sosmed@1.0.5 license should be a valid SPDX license expression
+947 info package.json @bochilteam/scraper-texts@1.0.2 license should be a valid SPDX license expression
+948 info package.json @jimp/bmp@0.16.13 No repository field.
 949 info package.json @jimp/gif@0.16.13 No repository field.
 950 info package.json @jimp/jpeg@0.16.13 No repository field.
-951 info package.json @jimp/plugin-blur@0.16.13 No repository field.
+951 info package.json @jimp/custom@0.16.13 No repository field.
 952 info package.json @jimp/plugin-blit@0.16.13 No repository field.
-953 info package.json @jimp/plugin-circle@0.16.13 No repository field.
-954 info package.json @jimp/plugin-contain@0.16.13 No repository field.
-955 info package.json @jimp/plugin-cover@0.16.13 No repository field.
+953 info package.json @jimp/plugin-blur@0.16.13 No repository field.
+954 info package.json @jimp/plugin-circle@0.16.13 No repository field.
+955 info package.json @jimp/plugin-contain@0.16.13 No repository field.
 956 info package.json @jimp/plugin-crop@0.16.13 No repository field.
-957 info package.json @jimp/plugin-displace@0.16.13 No repository field.
-958 info package.json @jimp/plugin-fisheye@0.16.13 No repository field.
-959 info package.json @jimp/plugin-flip@0.16.13 No repository field.
-960 info package.json @jimp/plugin-gaussian@0.16.13 No repository field.
-961 info package.json @jimp/plugin-color@0.16.13 No repository field.
-962 info package.json @jimp/plugin-invert@0.16.13 No repository field.
-963 info package.json @jimp/plugin-dither@0.16.13 No repository field.
-964 info package.json @jimp/plugin-mask@0.16.13 No repository field.
-965 info package.json @jimp/plugin-normalize@0.16.13 No repository field.
-966 info package.json @jimp/plugin-resize@0.16.13 No repository field.
-967 info package.json @jimp/plugin-rotate@0.16.13 No repository field.
-968 info package.json @jimp/plugin-scale@0.16.13 No repository field.
-969 info package.json @jimp/plugin-shadow@0.16.13 No repository field.
-970 info package.json @jimp/plugins@0.16.13 No repository field.
-971 info package.json @jimp/png@0.16.13 No repository field.
-972 info package.json @jimp/tiff@0.16.13 No repository field.
-973 info package.json @jimp/types@0.16.13 No repository field.
-974 info package.json @jimp/plugin-print@0.16.13 No repository field.
+957 info package.json @jimp/plugin-cover@0.16.13 No repository field.
+958 info package.json @jimp/plugin-displace@0.16.13 No repository field.
+959 info package.json @jimp/plugin-color@0.16.13 No repository field.
+960 info package.json @jimp/plugin-fisheye@0.16.13 No repository field.
+961 info package.json @jimp/plugin-flip@0.16.13 No repository field.
+962 info package.json @jimp/plugin-gaussian@0.16.13 No repository field.
+963 info package.json @jimp/plugin-invert@0.16.13 No repository field.
+964 info package.json @jimp/plugin-normalize@0.16.13 No repository field.
+965 info package.json @jimp/plugin-dither@0.16.13 No repository field.
+966 info package.json @jimp/plugin-mask@0.16.13 No repository field.
+967 info package.json @jimp/plugin-print@0.16.13 No repository field.
+968 info package.json @jimp/plugin-resize@0.16.13 No repository field.
+969 info package.json @jimp/plugin-rotate@0.16.13 No repository field.
+970 info package.json @jimp/plugin-scale@0.16.13 No repository field.
+971 info package.json @jimp/plugin-shadow@0.16.13 No repository field.
+972 info package.json @jimp/plugin-threshold@0.16.13 No repository field.
+973 info package.json @jimp/plugins@0.16.13 No repository field.
+974 info package.json @jimp/png@0.16.13 No repository field.
 975 info package.json @jimp/utils@0.16.13 No repository field.
-976 info package.json perf_hooks@0.0.1 perf_hooks is also the name of a node core module.
-977 info package.json @jimp/plugin-threshold@0.16.13 No repository field.
+976 info package.json @jimp/tiff@0.16.13 No repository field.
+977 info package.json @jimp/types@0.16.13 No repository field.
 978 verbose readDependencies loading dependencies from /home/runner/GataBot-MD/package.json
 979 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/abab/package.json
 980 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/abbrev/package.json
@@ -1772,299 +1772,279 @@
 1689 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/yt-search/package.json
 1690 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/ytdl-core/package.json
 1691 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/zod/package.json
-1692 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/acorn/package.json
-1693 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/cfonts/package.json
-1694 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/escodegen/package.json
-1695 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/esgenerate/package.json
-1696 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/eslint/package.json
-1697 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/esparse/package.json
-1698 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/esvalidate/package.json
-1699 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/fxparser/package.json
-1700 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/google-it/package.json
-1701 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/image-size/package.json
-1702 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/javascript-obfuscator/package.json
-1703 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/js-yaml/package.json
-1704 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/levenshtein-edit-distance/package.json
-1705 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/mathjs/package.json
-1706 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/mime/package.json
-1707 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/mkdirp/package.json
-1708 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/nfzf/package.json
-1709 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/node-gtts/package.json
-1710 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/node-which/package.json
-1711 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/nopt/package.json
-1712 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/npm/package.json
-1713 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/opencollective-postinstall/package.json
-1714 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/pino/package.json
-1715 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/pino-pretty/package.json
-1716 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/pixelmatch/package.json
-1717 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/prebuild-install/package.json
-1718 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/prettier/package.json
-1719 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/publish/package.json
-1720 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/qrcode/package.json
-1721 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/qrcode-terminal/package.json
-1722 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/rc/package.json
-1723 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/rimraf/package.json
-1724 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/semver/package.json
-1725 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/similarity/package.json
-1726 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/sshpk-conv/package.json
-1727 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/sshpk-sign/package.json
-1728 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/sshpk-verify/package.json
-1729 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/tlds/package.json
-1730 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/tsc/package.json
-1731 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/tsserver/package.json
-1732 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/uuid/package.json
-1733 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/window-size/package.json
-1734 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/yt-search/package.json
-1735 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/yt-search-audio/package.json
-1736 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/yt-search-video/package.json
-1737 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@adiwajshing/keyed-db/package.json
-1738 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-crypto/sha256-browser/package.json
-1739 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-crypto/sha256-js/package.json
-1740 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-crypto/supports-web-crypto/package.json
-1741 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-crypto/util/package.json
-1742 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/client-cognito-identity/package.json
-1743 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/client-sso/package.json
-1744 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/client-sso-oidc/package.json
-1745 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/client-sts/package.json
-1746 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/core/package.json
-1747 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/credential-provider-cognito-identity/package.json
-1748 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/credential-provider-env/package.json
-1749 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/credential-provider-http/package.json
-1750 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/credential-provider-ini/package.json
-1751 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/credential-provider-node/package.json
-1752 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/credential-provider-process/package.json
-1753 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/credential-provider-sso/package.json
-1754 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/credential-provider-web-identity/package.json
-1755 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/credential-providers/package.json
-1756 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/middleware-host-header/package.json
-1757 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/middleware-logger/package.json
-1758 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/middleware-recursion-detection/package.json
-1759 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/middleware-user-agent/package.json
-1760 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/region-config-resolver/package.json
-1761 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/token-providers/package.json
-1762 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/types/package.json
-1763 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/util-endpoints/package.json
-1764 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/util-locate-window/package.json
-1765 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/util-user-agent-browser/package.json
-1766 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/util-user-agent-node/package.json
-1767 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@babel/runtime/package.json
-1768 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper/package.json
-1769 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-bmkg/package.json
-1770 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-downloader/package.json
-1771 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-games/package.json
-1772 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-images/package.json
-1773 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-news/package.json
-1774 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-others/package.json
-1775 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-primbon/package.json
-1776 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-religions/package.json
-1777 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-sosmed/package.json
-1778 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-texts/package.json
-1779 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@brandond/findthelyrics/package.json
-1780 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@discordjs/builders/package.json
-1781 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@discordjs/collection/package.json
-1782 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@eshaz/web-worker/package.json
-1783 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@eslint/eslintrc/package.json
-1784 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@eslint/js/package.json
-1785 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@green-code/music-track-data/package.json
-1786 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@hapi/boom/package.json
-1787 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@hapi/hoek/package.json
-1788 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@humanwhocodes/config-array/package.json
-1789 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@humanwhocodes/module-importer/package.json
-1790 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@humanwhocodes/object-schema/package.json
-1791 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@isaacs/cliui/package.json
-1792 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@isaacs/fs-minipass/package.json
-1793 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@javascript-obfuscator/escodegen/package.json
-1794 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@javascript-obfuscator/estraverse/package.json
-1795 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/bmp/package.json
-1796 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/core/package.json
-1797 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/custom/package.json
-1798 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/gif/package.json
-1799 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/jpeg/package.json
-1800 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-blit/package.json
-1801 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-blur/package.json
-1802 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-circle/package.json
-1803 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-color/package.json
-1804 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-contain/package.json
-1805 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-cover/package.json
-1806 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-crop/package.json
-1807 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-displace/package.json
-1808 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-dither/package.json
-1809 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-fisheye/package.json
-1810 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-flip/package.json
-1811 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-gaussian/package.json
-1812 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-invert/package.json
-1813 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-mask/package.json
-1814 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-normalize/package.json
-1815 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-print/package.json
-1816 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-resize/package.json
-1817 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-rotate/package.json
-1818 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-scale/package.json
-1819 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-shadow/package.json
-1820 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-threshold/package.json
-1821 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugins/package.json
-1822 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/png/package.json
-1823 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/tiff/package.json
-1824 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/types/package.json
-1825 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/utils/package.json
-1826 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@mongodb-js/saslprep/package.json
-1827 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@nechlophomeriaa/spotifydl/package.json
-1828 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@nodelib/fs.scandir/package.json
-1829 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@nodelib/fs.stat/package.json
-1830 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@nodelib/fs.walk/package.json
-1831 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@pkgjs/parseargs/package.json
-1832 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@sapphire/async-queue/package.json
-1833 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@sapphire/shapeshift/package.json
-1834 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@sasmeee/igdl/package.json
-1835 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@shineiichijo/marika/package.json
-1836 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@sindresorhus/is/package.json
-1837 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/abort-controller/package.json
-1838 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/config-resolver/package.json
-1839 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/core/package.json
-1840 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/credential-provider-imds/package.json
-1841 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/fetch-http-handler/package.json
-1842 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/hash-node/package.json
-1843 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/invalid-dependency/package.json
-1844 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/is-array-buffer/package.json
-1845 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/middleware-content-length/package.json
-1846 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/middleware-endpoint/package.json
-1847 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/middleware-retry/package.json
-1848 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/middleware-serde/package.json
-1849 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/middleware-stack/package.json
-1850 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/node-config-provider/package.json
-1851 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/node-http-handler/package.json
-1852 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/property-provider/package.json
-1853 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/protocol-http/package.json
-1854 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/querystring-builder/package.json
-1855 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/querystring-parser/package.json
-1856 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/service-error-classification/package.json
-1857 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/shared-ini-file-loader/package.json
-1858 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/signature-v4/package.json
-1859 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/smithy-client/package.json
-1860 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/types/package.json
-1861 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/url-parser/package.json
-1862 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/util-base64/package.json
-1863 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/util-body-length-browser/package.json
-1864 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/util-body-length-node/package.json
-1865 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/util-buffer-from/package.json
-1866 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/util-config-provider/package.json
-1867 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/util-defaults-mode-browser/package.json
-1868 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/util-defaults-mode-node/package.json
-1869 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/util-endpoints/package.json
-1870 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/util-hex-encoding/package.json
-1871 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/util-middleware/package.json
-1872 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/util-retry/package.json
-1873 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/util-stream/package.json
-1874 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/util-uri-escape/package.json
-1875 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/util-utf8/package.json
-1876 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@socket.io/component-emitter/package.json
-1877 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@swc/helpers/package.json
-1878 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@szmarczak/http-timer/package.json
-1879 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@thi.ng/bitstream/package.json
-1880 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@thi.ng/errors/package.json
-1881 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@eslint-community/eslint-utils/package.json
-1882 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@eslint-community/regexpp/package.json
-1883 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@tootallnate/once/package.json
-1884 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@types/cacheable-request/package.json
-1885 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@types/cookie/package.json
-1886 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@types/cors/package.json
-1887 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@types/http-cache-semantics/package.json
-1888 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@types/keyv/package.json
-1889 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@types/long/package.json
-1890 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@types/minimatch/package.json
-1891 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@types/node/package.json
-1892 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@types/node-fetch/package.json
-1893 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@types/responselike/package.json
-1894 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@types/validator/package.json
-1895 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@types/webidl-conversions/package.json
-1896 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@types/whatwg-url/package.json
-1897 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@types/ws/package.json
-1898 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@tokenizer/token/package.json
-1899 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@vitalets/google-translate-api/package.json
-1900 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@wasm-audio-decoders/common/package.json
-1901 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@wasm-audio-decoders/flac/package.json
-1902 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@wasm-audio-decoders/ogg-vorbis/package.json
-1903 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@whiskeysockets/baileys/package.json
-1904 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@xct007/frieren-scraper/package.json
-1905 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@xmldom/xmldom/package.json
-1906 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@ungap/structured-clone/package.json
-1907 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@protobufjs/aspromise/package.json
-1908 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@protobufjs/base64/package.json
-1909 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@protobufjs/codegen/package.json
-1910 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@protobufjs/eventemitter/package.json
-1911 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@protobufjs/fetch/package.json
-1912 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@protobufjs/float/package.json
-1913 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@protobufjs/inquire/package.json
-1914 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@protobufjs/path/package.json
-1915 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@protobufjs/pool/package.json
-1916 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@protobufjs/utf8/package.json
-1917 verbose already installed skipping formdata-node@^4.3.2 /home/runner/GataBot-MD
-1918 verbose already installed skipping fs@^0.0.1-security /home/runner/GataBot-MD
-1919 verbose already installed skipping google-it@^1.6.3 /home/runner/GataBot-MD
-1920 verbose already installed skipping hispamemes@^1.0.7 /home/runner/GataBot-MD
-1921 verbose already installed skipping human-readable@^0.2.1 /home/runner/GataBot-MD
-1922 verbose already installed skipping imagemaker.js@^2.0.4 /home/runner/GataBot-MD
-1923 verbose already installed skipping instagram-url-direct@^1.0.12 /home/runner/GataBot-MD
-1924 verbose already installed skipping javascript-obfuscator@^4.0.0 /home/runner/GataBot-MD
-1925 verbose already installed skipping jsdom@^19.0.0 /home/runner/GataBot-MD
-1926 verbose already installed skipping libphonenumber-js@^1.10.55 /home/runner/GataBot-MD
-1927 verbose already installed skipping link-preview-js@^3.0.0 /home/runner/GataBot-MD
-1928 verbose already installed skipping lodash@^4.17.21 /home/runner/GataBot-MD
-1929 verbose already installed skipping lowdb@^3.0.0 /home/runner/GataBot-MD
-1930 verbose already installed skipping mathjs@^11.3.0 /home/runner/GataBot-MD
-1931 verbose already installed skipping md5@^2.3.0 /home/runner/GataBot-MD
-1932 verbose already installed skipping megajs@^1.2.2 /home/runner/GataBot-MD
-1933 verbose already installed skipping module-gatadios@^1.0.9 /home/runner/GataBot-MD
-1934 verbose already installed skipping moment-timezone@^0.5.34 /home/runner/GataBot-MD
-1935 verbose already installed skipping mongoose@^6.3.3 /home/runner/GataBot-MD
-1936 verbose already installed skipping node-cache@^5.1.2 /home/runner/GataBot-MD
-1937 verbose already installed skipping node-fetch@^3.2.0 /home/runner/GataBot-MD
-1938 verbose already installed skipping node-gtts@^2.0.2 /home/runner/GataBot-MD
-1939 verbose already installed skipping node-os-utils@^1.3.6 /home/runner/GataBot-MD
-1940 verbose already installed skipping node-webpmux@^3.1.1 /home/runner/GataBot-MD
-1941 verbose already installed skipping openai@^3.3.0 /home/runner/GataBot-MD
-1942 verbose already installed skipping pdfkit@^0.13.0 /home/runner/GataBot-MD
-1943 verbose already installed skipping perf_hooks@^0.0.1 /home/runner/GataBot-MD
-1944 verbose already installed skipping pino@^7.8.0 /home/runner/GataBot-MD
-1945 verbose already installed skipping pino-pretty@^7.5.1 /home/runner/GataBot-MD
-1946 verbose already installed skipping qrcode@^1.5.0 /home/runner/GataBot-MD
-1947 verbose already installed skipping qrcode-terminal@^0.12.0 /home/runner/GataBot-MD
-1948 verbose already installed skipping readline@^1.3.0 /home/runner/GataBot-MD
-1949 verbose already installed skipping ruhend-scraper@^7.0.4 /home/runner/GataBot-MD
-1950 verbose already installed skipping similarity@^1.2.1 /home/runner/GataBot-MD
-1951 verbose already installed skipping socket.io@^4.4.1 /home/runner/GataBot-MD
-1952 verbose already installed skipping spotifydl-x@^0.3.5 /home/runner/GataBot-MD
-1953 verbose already installed skipping syntax-error@^1.4.0 /home/runner/GataBot-MD
-1954 verbose already installed skipping terminal-image@^2.0.0 /home/runner/GataBot-MD
-1955 verbose already installed skipping url-regex-safe@^3.0.0 /home/runner/GataBot-MD
-1956 verbose already installed skipping wa-sticker-formatter@^4.3.2 /home/runner/GataBot-MD
-1957 verbose already installed skipping ws@^8.18.0 /home/runner/GataBot-MD
-1958 verbose already installed skipping yargs@^17.3.1 /home/runner/GataBot-MD
-1959 verbose already installed skipping yt-search@^2.10.3 /home/runner/GataBot-MD
-1960 verbose already installed skipping ytdl-core@^4.11.4 /home/runner/GataBot-MD
-1961 verbose already installed skipping eslint@^8.45.0 /home/runner/GataBot-MD
-1962 verbose already installed skipping eslint-config-google@^0.14.0 /home/runner/GataBot-MD
-1963 verbose already installed skipping @adiwajshing/keyed-db@^0.2.4 /home/runner/GataBot-MD
-1964 verbose already installed skipping @bochilteam/scraper@^4.2.4 /home/runner/GataBot-MD
-1965 verbose already installed skipping @brandond/findthelyrics@^2.0.5 /home/runner/GataBot-MD
-1966 verbose already installed skipping @green-code/music-track-data@^2.0.3 /home/runner/GataBot-MD
-1967 verbose already installed skipping @hapi/boom@^10.0.1 /home/runner/GataBot-MD
-1968 verbose already installed skipping @nechlophomeriaa/spotifydl@1.0.11 /home/runner/GataBot-MD
-1969 verbose already installed skipping @sasmeee/igdl@^1.0.0 /home/runner/GataBot-MD
-1970 verbose already installed skipping @shineiichijo/marika@^2.0.6 /home/runner/GataBot-MD
-1971 verbose already installed skipping @vitalets/google-translate-api@^8.0.0 /home/runner/GataBot-MD
-1972 verbose stack Error: Unsupported URL Type: npm:@whiskeysockets/baileys@6.7.2
-1972 verbose stack     at parseUrl (/home/runner/GataBot-MD/node_modules/npm/node_modules/npm-package-arg/npa.js:169:13)
-1972 verbose stack     at npa (/home/runner/GataBot-MD/node_modules/npm/node_modules/npm-package-arg/npa.js:75:12)
-1972 verbose stack     at resolver (/home/runner/GataBot-MD/node_modules/npm/lib/install.js:845:42)
-1972 verbose stack     at Timeout._onTimeout (/home/runner/GataBot-MD/node_modules/npm/lib/install.js:840:7)
-1972 verbose stack     at listOnTimeout (node:internal/timers:573:17)
-1972 verbose stack     at process.processTimers (node:internal/timers:514:7)
-1973 verbose cwd /home/runner/GataBot-MD
-1974 error Linux 6.5.0-1025-gcp
-1975 error argv "/nix/store/6g9n96qf1yx139xklnmy3v4xhjvjgsji-nodejs-20.12.2/bin/node" "/home/runner/GataBot-MD/node_modules/.bin/npm" "install"
-1976 error node v20.12.2
-1977 error npm  v2.15.12
-1978 error Unsupported URL Type: npm:@whiskeysockets/baileys@6.7.2
-1979 error If you need help, you may report this error at:
-1979 error     <https://github.com/npm/npm/issues>
-1980 verbose exit [ 1, true ]
+1692 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@adiwajshing/keyed-db/package.json
+1693 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@babel/runtime/package.json
+1694 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper/package.json
+1695 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-bmkg/package.json
+1696 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-downloader/package.json
+1697 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-games/package.json
+1698 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-images/package.json
+1699 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-news/package.json
+1700 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-others/package.json
+1701 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-primbon/package.json
+1702 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-religions/package.json
+1703 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-sosmed/package.json
+1704 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@bochilteam/scraper-texts/package.json
+1705 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-crypto/sha256-browser/package.json
+1706 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-crypto/sha256-js/package.json
+1707 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-crypto/supports-web-crypto/package.json
+1708 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-crypto/util/package.json
+1709 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/client-cognito-identity/package.json
+1710 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/client-sso/package.json
+1711 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/client-sso-oidc/package.json
+1712 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/client-sts/package.json
+1713 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/core/package.json
+1714 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/credential-provider-cognito-identity/package.json
+1715 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/credential-provider-env/package.json
+1716 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/credential-provider-http/package.json
+1717 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/credential-provider-ini/package.json
+1718 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/credential-provider-node/package.json
+1719 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/credential-provider-process/package.json
+1720 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/credential-provider-sso/package.json
+1721 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/credential-provider-web-identity/package.json
+1722 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/credential-providers/package.json
+1723 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/middleware-host-header/package.json
+1724 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/middleware-logger/package.json
+1725 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/middleware-recursion-detection/package.json
+1726 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/middleware-user-agent/package.json
+1727 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/region-config-resolver/package.json
+1728 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/token-providers/package.json
+1729 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/types/package.json
+1730 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/util-endpoints/package.json
+1731 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/util-locate-window/package.json
+1732 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/util-user-agent-browser/package.json
+1733 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@aws-sdk/util-user-agent-node/package.json
+1734 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@brandond/findthelyrics/package.json
+1735 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@discordjs/builders/package.json
+1736 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@discordjs/collection/package.json
+1737 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@eshaz/web-worker/package.json
+1738 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@green-code/music-track-data/package.json
+1739 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@eslint-community/eslint-utils/package.json
+1740 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@eslint-community/regexpp/package.json
+1741 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@eslint/eslintrc/package.json
+1742 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@eslint/js/package.json
+1743 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@hapi/boom/package.json
+1744 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@hapi/hoek/package.json
+1745 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@humanwhocodes/config-array/package.json
+1746 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@humanwhocodes/module-importer/package.json
+1747 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@humanwhocodes/object-schema/package.json
+1748 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@javascript-obfuscator/escodegen/package.json
+1749 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@javascript-obfuscator/estraverse/package.json
+1750 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@mongodb-js/saslprep/package.json
+1751 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/bmp/package.json
+1752 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/core/package.json
+1753 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/custom/package.json
+1754 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/gif/package.json
+1755 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/jpeg/package.json
+1756 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-blit/package.json
+1757 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-blur/package.json
+1758 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-circle/package.json
+1759 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-color/package.json
+1760 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-contain/package.json
+1761 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-cover/package.json
+1762 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-crop/package.json
+1763 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-displace/package.json
+1764 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-dither/package.json
+1765 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-fisheye/package.json
+1766 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-flip/package.json
+1767 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-gaussian/package.json
+1768 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-invert/package.json
+1769 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-mask/package.json
+1770 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-normalize/package.json
+1771 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-print/package.json
+1772 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-resize/package.json
+1773 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-rotate/package.json
+1774 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-scale/package.json
+1775 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-shadow/package.json
+1776 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugin-threshold/package.json
+1777 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/plugins/package.json
+1778 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/png/package.json
+1779 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/tiff/package.json
+1780 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/types/package.json
+1781 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@jimp/utils/package.json
+1782 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@nechlophomeriaa/spotifydl/package.json
+1783 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@isaacs/cliui/package.json
+1784 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@isaacs/fs-minipass/package.json
+1785 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@pkgjs/parseargs/package.json
+1786 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@nodelib/fs.scandir/package.json
+1787 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@nodelib/fs.stat/package.json
+1788 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@nodelib/fs.walk/package.json
+1789 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@protobufjs/aspromise/package.json
+1790 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@protobufjs/base64/package.json
+1791 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@protobufjs/codegen/package.json
+1792 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@protobufjs/eventemitter/package.json
+1793 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@protobufjs/fetch/package.json
+1794 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@protobufjs/float/package.json
+1795 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@protobufjs/inquire/package.json
+1796 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@protobufjs/path/package.json
+1797 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@protobufjs/pool/package.json
+1798 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@protobufjs/utf8/package.json
+1799 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@sapphire/async-queue/package.json
+1800 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@sapphire/shapeshift/package.json
+1801 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@sasmeee/igdl/package.json
+1802 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@sindresorhus/is/package.json
+1803 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@shineiichijo/marika/package.json
+1804 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@socket.io/component-emitter/package.json
+1805 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@swc/helpers/package.json
+1806 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@szmarczak/http-timer/package.json
+1807 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@thi.ng/bitstream/package.json
+1808 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@thi.ng/errors/package.json
+1809 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@tokenizer/token/package.json
+1810 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@types/cacheable-request/package.json
+1811 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@types/cookie/package.json
+1812 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@types/cors/package.json
+1813 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@types/http-cache-semantics/package.json
+1814 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@types/keyv/package.json
+1815 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@types/long/package.json
+1816 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@types/minimatch/package.json
+1817 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@types/node/package.json
+1818 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@types/node-fetch/package.json
+1819 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@types/responselike/package.json
+1820 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@types/validator/package.json
+1821 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@types/webidl-conversions/package.json
+1822 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@types/whatwg-url/package.json
+1823 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@types/ws/package.json
+1824 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@ungap/structured-clone/package.json
+1825 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/abort-controller/package.json
+1826 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/config-resolver/package.json
+1827 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/core/package.json
+1828 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/credential-provider-imds/package.json
+1829 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/fetch-http-handler/package.json
+1830 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/hash-node/package.json
+1831 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/invalid-dependency/package.json
+1832 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/is-array-buffer/package.json
+1833 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/middleware-content-length/package.json
+1834 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/middleware-endpoint/package.json
+1835 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/middleware-retry/package.json
+1836 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/middleware-serde/package.json
+1837 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/middleware-stack/package.json
+1838 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/node-config-provider/package.json
+1839 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/node-http-handler/package.json
+1840 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/property-provider/package.json
+1841 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/protocol-http/package.json
+1842 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/querystring-builder/package.json
+1843 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/querystring-parser/package.json
+1844 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/service-error-classification/package.json
+1845 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/shared-ini-file-loader/package.json
+1846 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/signature-v4/package.json
+1847 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/smithy-client/package.json
+1848 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/types/package.json
+1849 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/url-parser/package.json
+1850 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/util-base64/package.json
+1851 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/util-body-length-browser/package.json
+1852 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/util-body-length-node/package.json
+1853 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/util-buffer-from/package.json
+1854 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/util-config-provider/package.json
+1855 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/util-defaults-mode-browser/package.json
+1856 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/util-defaults-mode-node/package.json
+1857 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/util-endpoints/package.json
+1858 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/util-hex-encoding/package.json
+1859 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/util-middleware/package.json
+1860 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/util-retry/package.json
+1861 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/util-stream/package.json
+1862 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/util-uri-escape/package.json
+1863 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@smithy/util-utf8/package.json
+1864 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@tootallnate/once/package.json
+1865 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@vitalets/google-translate-api/package.json
+1866 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@wasm-audio-decoders/common/package.json
+1867 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@wasm-audio-decoders/flac/package.json
+1868 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@wasm-audio-decoders/ogg-vorbis/package.json
+1869 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@whiskeysockets/baileys/package.json
+1870 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@xct007/frieren-scraper/package.json
+1871 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/acorn/package.json
+1872 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/cfonts/package.json
+1873 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/escodegen/package.json
+1874 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/esgenerate/package.json
+1875 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/eslint/package.json
+1876 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/esparse/package.json
+1877 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/esvalidate/package.json
+1878 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/fxparser/package.json
+1879 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/google-it/package.json
+1880 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/image-size/package.json
+1881 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/javascript-obfuscator/package.json
+1882 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/js-yaml/package.json
+1883 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/levenshtein-edit-distance/package.json
+1884 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/mathjs/package.json
+1885 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/mime/package.json
+1886 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/mkdirp/package.json
+1887 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/nfzf/package.json
+1888 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/node-gtts/package.json
+1889 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/node-which/package.json
+1890 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/nopt/package.json
+1891 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/npm/package.json
+1892 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/opencollective-postinstall/package.json
+1893 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/pino/package.json
+1894 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/pino-pretty/package.json
+1895 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/pixelmatch/package.json
+1896 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/prebuild-install/package.json
+1897 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/prettier/package.json
+1898 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/publish/package.json
+1899 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/qrcode/package.json
+1900 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/qrcode-terminal/package.json
+1901 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/rc/package.json
+1902 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/rimraf/package.json
+1903 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/semver/package.json
+1904 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/similarity/package.json
+1905 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/sshpk-conv/package.json
+1906 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/sshpk-sign/package.json
+1907 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/sshpk-verify/package.json
+1908 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/tlds/package.json
+1909 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/tsc/package.json
+1910 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/tsserver/package.json
+1911 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/uuid/package.json
+1912 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/window-size/package.json
+1913 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/yt-search/package.json
+1914 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/yt-search-audio/package.json
+1915 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/.bin/yt-search-video/package.json
+1916 verbose targetResolver reading package data from /home/runner/GataBot-MD/node_modules/@xmldom/xmldom/package.json
+1917 verbose already installed skipping node-fetch@^3.2.0 /home/runner/GataBot-MD
+1918 verbose already installed skipping node-gtts@^2.0.2 /home/runner/GataBot-MD
+1919 verbose already installed skipping node-os-utils@^1.3.6 /home/runner/GataBot-MD
+1920 verbose already installed skipping node-webpmux@^3.1.1 /home/runner/GataBot-MD
+1921 verbose already installed skipping openai@^3.3.0 /home/runner/GataBot-MD
+1922 verbose already installed skipping pdfkit@^0.13.0 /home/runner/GataBot-MD
+1923 verbose already installed skipping perf_hooks@^0.0.1 /home/runner/GataBot-MD
+1924 verbose already installed skipping pino@^7.8.0 /home/runner/GataBot-MD
+1925 verbose already installed skipping pino-pretty@^7.5.1 /home/runner/GataBot-MD
+1926 verbose already installed skipping qrcode@^1.5.0 /home/runner/GataBot-MD
+1927 verbose already installed skipping qrcode-terminal@^0.12.0 /home/runner/GataBot-MD
+1928 verbose already installed skipping readline@^1.3.0 /home/runner/GataBot-MD
+1929 verbose already installed skipping ruhend-scraper@^7.0.4 /home/runner/GataBot-MD
+1930 verbose already installed skipping similarity@^1.2.1 /home/runner/GataBot-MD
+1931 verbose already installed skipping socket.io@^4.4.1 /home/runner/GataBot-MD
+1932 verbose already installed skipping spotifydl-x@^0.3.5 /home/runner/GataBot-MD
+1933 verbose already installed skipping syntax-error@^1.4.0 /home/runner/GataBot-MD
+1934 verbose already installed skipping terminal-image@^2.0.0 /home/runner/GataBot-MD
+1935 verbose already installed skipping url-regex-safe@^3.0.0 /home/runner/GataBot-MD
+1936 verbose already installed skipping wa-sticker-formatter@^4.3.2 /home/runner/GataBot-MD
+1937 verbose already installed skipping ws@^8.18.0 /home/runner/GataBot-MD
+1938 verbose already installed skipping yargs@^17.3.1 /home/runner/GataBot-MD
+1939 verbose already installed skipping yt-search@^2.10.3 /home/runner/GataBot-MD
+1940 verbose already installed skipping ytdl-core@^4.11.4 /home/runner/GataBot-MD
+1941 verbose already installed skipping eslint@^8.45.0 /home/runner/GataBot-MD
+1942 verbose already installed skipping eslint-config-google@^0.14.0 /home/runner/GataBot-MD
+1943 verbose already installed skipping @adiwajshing/keyed-db@^0.2.4 /home/runner/GataBot-MD
+1944 verbose already installed skipping @bochilteam/scraper@^4.2.4 /home/runner/GataBot-MD
+1945 verbose already installed skipping @brandond/findthelyrics@^2.0.5 /home/runner/GataBot-MD
+1946 verbose already installed skipping @green-code/music-track-data@^2.0.3 /home/runner/GataBot-MD
+1947 verbose already installed skipping @hapi/boom@^10.0.1 /home/runner/GataBot-MD
+1948 verbose already installed skipping @nechlophomeriaa/spotifydl@1.0.11 /home/runner/GataBot-MD
+1949 verbose already installed skipping @sasmeee/igdl@^1.0.0 /home/runner/GataBot-MD
+1950 verbose already installed skipping @shineiichijo/marika@^2.0.6 /home/runner/GataBot-MD
+1951 verbose already installed skipping @vitalets/google-translate-api@^8.0.0 /home/runner/GataBot-MD
+1952 verbose stack Error: Unsupported URL Type: npm:@whiskeysockets/baileys@6.7.2
+1952 verbose stack     at parseUrl (/home/runner/GataBot-MD/node_modules/npm/node_modules/npm-package-arg/npa.js:169:13)
+1952 verbose stack     at npa (/home/runner/GataBot-MD/node_modules/npm/node_modules/npm-package-arg/npa.js:75:12)
+1952 verbose stack     at resolver (/home/runner/GataBot-MD/node_modules/npm/lib/install.js:845:42)
+1952 verbose stack     at Timeout._onTimeout (/home/runner/GataBot-MD/node_modules/npm/lib/install.js:840:7)
+1952 verbose stack     at listOnTimeout (node:internal/timers:573:17)
+1952 verbose stack     at process.processTimers (node:internal/timers:514:7)
+1953 verbose cwd /home/runner/GataBot-MD
+1954 error Linux 6.5.0-1025-gcp
+1955 error argv "/nix/store/6g9n96qf1yx139xklnmy3v4xhjvjgsji-nodejs-20.12.2/bin/node" "/home/runner/GataBot-MD/node_modules/.bin/npm" "install"
+1956 error node v20.12.2
+1957 error npm  v2.15.12
+1958 error Unsupported URL Type: npm:@whiskeysockets/baileys@6.7.2
+1959 error If you need help, you may report this error at:
+1959 error     <https://github.com/npm/npm/issues>
+1960 verbose exit [ 1, true ]

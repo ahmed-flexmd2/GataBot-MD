@@ -24,7 +24,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     let readMore = more.repeat(850);
     let taguser = '@' + m.sender.split("@s.whatsapp.net")[0];
   await conn.sendMessage(m.chat, { react: { text: '📂', key: m.key } })
-    const harley = 'https://telegra.ph/file/c6931834b0cff16b54135.jpg'
+    const harley = 'https://telegra.ph/file/29ebac6b8a2f63a630e4b.jpg'
     
 conn.relayMessage(m.chat, { viewOnceMessage: { message: { interactiveMessage: { header: { title: `harley`}, body: { text: `قوانــ🥱ـين
 > 1̵͕̽̓̔̂̚͘ ممنوع اسبام
@@ -55,10 +55,11 @@ conn.relayMessage(m.chat, { viewOnceMessage: { message: { interactiveMessage: { 
                                                     id: 'اعضاء'
                                                 },
                                                 {
+                                                     highlight_label: 'بعبص براحتك يابرو 🤖',
                                                     header: 'الــقـ👨🏻‍💻ـســم الــثــانــي',
                                                     title: 'استدعاء_قسم_المشرفين #المشرفين',
                                                     description: '',
-                                                    id: '.م11'
+                                                    id: '.م2'
                                                 },
                                                 {
                                                     header: 'الــقـ🕋ـســم الــثــالــث',
@@ -70,13 +71,13 @@ conn.relayMessage(m.chat, { viewOnceMessage: { message: { interactiveMessage: { 
                                                     header: 'الــقـ👑ـســم الــرابــع',
                                                     title: 'استدعاء_قسم_المطور #المطور',
                                                     description: '',
-                                                    id: '.م3'
+                                                    id: ''
                                                 },
                                                 {
                                                     header: 'الــقـ🛡ـســم الــخــامــس',
                                                     title: 'استدعاء_قسم_التنزيلات #التنزيلات',
                                                     description: '',
-                                                    id: '.م4'
+                                                    id: '.م3'
                                                 },
                                                 {
                                                     header: 'الــقـ🕹ـســم الــســادس',

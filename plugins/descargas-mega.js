@@ -33,7 +33,7 @@ conn.reply(m.chat,caption, m)
 
 handler.help = ["mega"]
 handler.tags = ["downloader"]
-handler.command = /^(mega)$/i
+handler.command = /^(mega|ميجا)$/i
 export default handler
 
 function formatBytes(bytes) {

@@ -1,6 +1,6 @@
 import fetch from 'node-fetch'
 let handler = async (m, { conn, args, usedPrefix, command }) => {
-if (!args[0]) throw `${lenguajeGB['smsAvisoMG']()} Ingrese una Url de Drive`
+if (!args[0]) throw `${lenguajeGB['smsAvisoMG']()} حط رابط مشروعك`
 let url=args[0]
 if (!(url && url.match(/drive\.google\.com\/file/i))) throw `${lenguajeGB['smsAvisoMG']()} La url ingresada no es valida o es un folder`
 try{
@@ -72,7 +72,6 @@ function formatBytes(bytes, decimals = 2) {
 
 handler.help = ['drive'].map(v => v + ' <url>')
 handler.tags = ['downloader']
-handler.command = /^(drive|drivedl|dldrive|gdrive)$/i
-handler.register = true
+handler.command = /^(drive|drivedl|dldrive|gdrive|درايف)$/i
 export default handler
 

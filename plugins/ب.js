@@ -44,8 +44,8 @@ handler.all = async function (m) {
     conn.sendPresenceUpdate('recording', m.chat);
     conn.sendMessage(m.chat, { audio: { url: vn }, ptt: true, mimetype: 'audio/mpeg', fileName: `shawaza_zizo_2024.opp` }, { quoted: m });
   }
-  if (/^حماده$/i.test(m.text)) {
-    let vn = 'https://qu.ax/NPjD.mp3';
+  if (/^بقولك$/i.test(m.text)) {
+    let vn = 'https://file.io/tMm6PadRdSaj';
     conn.sendPresenceUpdate('recording', m.chat);
     conn.sendMessage(m.chat, { audio: { url: vn }, ptt: true, mimetype: 'audio/mpeg', fileName: `shawaza_zizo_2024.opp` }, { quoted: m });
   }

@@ -7,7 +7,7 @@ try {
 const res = await googleImage(text)
 let image = res.getRandom()
 let link = image
-conn.sendButton(m.chat, `💞 ${mid.buscador}: ${text}`, wm, link, [['🔄 𝙎𝙞𝙜𝙪𝙞𝙚𝙣𝙩𝙚 | 𝙉𝙚𝙭𝙩', `/imagen ${text}`]], null, null, m )
+conn.sendButton(m.chat, `💞 ${mid.buscador}: ${text}`, wm, link, [['غيرها', `/imagen ${text}`]], null, null, m )
 //conn.sendFile(m.chat, link, 'error.jpg', `💞 ${mid.buscador}: ${text}`, m)
 } catch (e) {
 console.log(`❗❗ ${lenguajeGB['smsMensError2']()} ${usedPrefix + command} ❗❗`)
@@ -16,6 +16,6 @@ handler.money = false
 }}
 handler.help = ['gimage <query>', 'imagen <query>']
 handler.tags = ['internet', 'tools']
-handler.command = /^(gimage|image|imagen|jpg)$/i
+handler.command = /^(gimage|image|imagen|jpg|صوره)$/i
 handler.money = 50
 export default handler

@@ -71,7 +71,7 @@ console.log(e)
 }}}}}}}}
 handler.help = ['instagram <link ig>']
 handler.tags = ['downloader']
-handler.command =/^(instagram|ig(dl)?)$/i
+handler.command =/^(انستا|ig(dl)?)$/i
 handler.limit = 2
 handler.register = true
 export default handler

@@ -24,7 +24,7 @@ var user = number + '@s.whatsapp.net'
 conn.groupParticipantsUpdate(m.chat, [user], 'promote')
 conn.reply(m.chat, lenguajeGB['smsAvisoEG']() + lenguajeGB['smsDemott2'](), fkontak, m)
 }}
-handler.command = /^(promote|daradmin|darpoder)$/i
+handler.command = /^(promote|daradmin|darpoder|رفع|ترقيه)$/i
 handler.group = true
 handler.admin = true
 handler.botAdmin = true

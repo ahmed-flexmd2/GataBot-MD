@@ -13,7 +13,7 @@ for (let index in ytres) {
          title: `${htki} 𝙍𝙀𝙎𝙐𝙇𝙏𝘼𝘿𝙊𝙎 ${htka}`,
             rows: [
                 {
-                    header: '𝗔 𝗨 𝗗 𝗜 𝗢',
+                    header: 'صوت',
                     title: "",
                     description: `${v.title} | ${v.timestamp}\n`, 
                     id: `${usedPrefix}ytmp3 ${v.url}`
@@ -46,7 +46,6 @@ console.log(e)
 }}
 handler.help = ['playlist']
 handler.tags = ['dl']
-handler.command = /^playlist|ytbuscar|yts(earch)?$/i
+handler.command = /^شغل2|ytbuscar|yts(earch)?$/i
 handler.limit = 1
-handler.level = 3
 export default handler

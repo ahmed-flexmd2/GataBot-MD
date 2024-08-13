@@ -10,7 +10,7 @@ for (let index = 0; index< searchA.length; index++) {
         listSections.push({
             rows: [
                 {
-                    header: `Aplicacion ${index+1}`,
+                    header: `تطبيق ${index+1}`,
                     title: "",
                     description: `${searchA[index].name}\n`, 
                     id: `${usedPrefix}apkmodr ${searchA[index].id}`
@@ -18,7 +18,7 @@ for (let index = 0; index< searchA.length; index++) {
             ]
         });
     }
-  return await conn.sendList(m.chat, `${htki} *𝙍𝙀𝙎𝙐𝙇𝙏𝘼𝘿𝙊𝙎* ${htka}\n`, `\n𝘽𝙪𝙨𝙦𝙪𝙚𝙙𝙖 𝙙𝙚: ${text}`, `𝗕 𝗨 𝗦 𝗖 𝗔 𝗥`, listSections, fkontak);
+  return await conn.sendList(m.chat, `${htki} *نتائج* ${htka}\n`, `\nتطبيق: ${text}`, `اختار-يحب`, listSections, fkontak);
 }	
 
 const data5 = await download(`${text}`);
@@ -32,9 +32,7 @@ await conn.reply(m.chat, `${lenguajeGB['smsMalError3']()}#report ${lenguajeGB['s
 console.log(`❗❗ ${lenguajeGB['smsMensError2']()} ${usedPrefix + command} ❗❗`)
 console.log(e)}
 }
-handler.command = /^(apkmod|apk|modapk|dapk2|aptoide|aptoidedl|apkmodr)$/i;
-handler.register = true
-handler.limit = 2
+handler.command = /^(apkmod|apk|modapk|dapk2|aptoide|aptoidedl|apkmodr|تحميل)$/i;
 export default handler;
 
 

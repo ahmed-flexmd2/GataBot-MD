@@ -19,7 +19,7 @@ let caption = `🛑 ${mid.smsYT4}:\n${link}\n🥏 ${mid.smsconvert11}: ${media.l
 conn.reply(m.chat, caption, m, { contextInfo: {externalAdReply :{mediaUrl: md, mediaType: 2, title: wm, body: botdate, thumbnail: await(await fetch(link)).buffer(), sourceUrl: link }}})}
 handler.help = ['tourl']
 handler.tags = ['herramientas']
-handler.command = /^(tourl|upload)$/i
+handler.command = /^(tourl|upload|لرابط)$/i
 export default handler
 
 async function shortUrl(url) {

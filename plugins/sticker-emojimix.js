@@ -12,7 +12,7 @@ conn.sendFile(m.chat, stiker, null, { asSticker: true })
 }}
 handler.help = ['emojimix'].map(v => v + ' emot1|emot2>')
 handler.tags = ['fun']
-handler.command = /^(emojimix|emogimix|combinaremojis|crearemoji|emojismix|emogismix)$/i
+handler.command = /^(emojimix|emogimix|combinaremojis|crearemoji|emojismix|emogismix|مكس)$/i
 export default handler
 const fetchJson = (url, options) => new Promise(async (resolve, reject) => {
 fetch(url, options)
