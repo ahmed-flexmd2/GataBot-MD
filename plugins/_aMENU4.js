@@ -97,7 +97,7 @@ let str = `⎔⋅• ━ ╼╃ ⌬〔﷽〕⌬ ╄╾ ━ •⋅⎔
         conn.reply(m.chat, '[❗خطاء❗]', m)
     }
 }
-handler.command = /^(قسم الذكاء الاصطناعي|م3)$/i
+handler.command = /^(قسم الذكاء الاصطناعي|م4)$/i
 handler.exp = 20
 handler.fail = null
 export default handler
