@@ -47,7 +47,7 @@ await conn.reply(m.chat, `${lenguajeGB['smsMalError3']()}#report ${lenguajeGB['s
 console.log(`❗❗ ${lenguajeGB['smsMensError2']()} ${usedPrefix + command} ❗❗`)
 console.log(e)
 }}
-handler.command = /^(anime|animeinfo)$/i;
+handler.command = /^(anime|animeinfo|انمي)$/i;
 //handler.level = 2
 //handler.register = true
 export default handler;
