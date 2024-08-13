@@ -157,7 +157,6 @@ let str = `⎔⋅• ━ ╼╃ ⌬〔﷽〕⌬ ╄╾ ━ •⋅⎔
 }
 handler.command = /^(اقسام)$/i
 handler.exp = 20
-handler.owner = true
 handler.fail = null
 export default handler
 
